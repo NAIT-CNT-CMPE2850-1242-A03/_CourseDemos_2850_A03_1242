@@ -1,3 +1,0 @@
-# Archive
-
-Please place items here that are not for marking, like test projects, prototypes, starter versions of ICAs/Labs, etc...
