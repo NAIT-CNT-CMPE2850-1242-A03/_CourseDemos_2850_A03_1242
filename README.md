@@ -1,3 +1,3 @@
-# Template Repo for Python (CMPE2850).
+# Demo code for CMPE2850, 1242, A03
 
-Customize to provide information on your repo as directed.
+See the readme.md in each folder (if present) for each demo, otherwise comments are included within.
